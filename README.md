@@ -48,3 +48,5 @@ Experienced Data Analyst/Business Analyst
     •	Analytical Visualisation
     •	PowerPoint
     •	MS Word
+    •	Retool
+    •	Pandas
